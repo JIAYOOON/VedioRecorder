@@ -13,7 +13,7 @@ Record 모드가 활성화되면 빨간색 원이 화면에 표시되어 녹화 
 2. Filter 기능
 Contrast, Brightness, Flip 세 가지 필터가 제공됩니다.
 각각의 필터는 'c', 'b', 'f' 키를 눌러 토글할 수 있습니다.
-<img width="481" alt="image" src="https://github.com/JIAYOOON/VideoRecorder/assets/113532368/080852e6-6525-43b8-a5d4-6af89f8d3900"> 1)contrast <img width="480" alt="image" src="https://github.com/JIAYOOON/VideoRecorder/assets/113532368/a559e8a2-b545-4719-ae35-fb022da9b46d"> 2)contrast+flip <img width="481" alt="image" src="https://github.com/JIAYOOON/VideoRecorder/assets/113532368/32493cec-3ada-4246-b66e-516ecd693634"> 3)brightness
+<img width="481" alt="image" src="https://github.com/JIAYOOON/VideoRecorder/assets/113532368/080852e6-6525-43b8-a5d4-6af89f8d3900"> 1)기존 화면 <img width="480" alt="image" src="https://github.com/JIAYOOON/VideoRecorder/assets/113532368/a559e8a2-b545-4719-ae35-fb022da9b46d"> 2)contrast+flip <img width="481" alt="image" src="https://github.com/JIAYOOON/VideoRecorder/assets/113532368/32493cec-3ada-4246-b66e-516ecd693634"> 3)brightness
 
 3. 화면 표시 및 종료
 프로그램 실행 시 화면에 현재 카메라 영상이 표시됩니다.
