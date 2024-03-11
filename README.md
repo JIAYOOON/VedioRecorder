@@ -1,7 +1,7 @@
 # VideoRecorder
 Simple video recorder using OpenCV
 
-이 프로그램은 OpenCV를 사용하여 컴퓨터의 웹캠이나 카메라 영상을 녹화하는 도구입니다. https://github.com/JIAYOOON/VideoRecorder/blob/main/README.md
+이 프로그램은 OpenCV를 사용하여 컴퓨터의 웹캠이나 카메라 영상을 녹화하는 도구입니다.
 이 프로그램은 다음의 기능을 제공합니다:
 
 1. Preview 및 Record 모드
